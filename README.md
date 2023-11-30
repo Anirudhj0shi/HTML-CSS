@@ -34,3 +34,4 @@ I HAVE FULLFILED THE POINTS GIVEN BELOW IN 5-6 PROGRAMS WITH CSS INCLUDED IN THE
  
 
 10) Add Comments: Insert comments in your HTML code to describe the purpose of different sections or elements.
+...
